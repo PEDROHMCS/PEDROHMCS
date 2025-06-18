@@ -4,6 +4,6 @@
   
 - 📱 Mobile with React-Native
 
-- 🔭 I’m currently Studying at [ETESP](http://www.etesaopaulo.com.br)
+- 🔭 I’m currently Studying at [USP](https://www5.usp.br/)
 
 - 💬 Learning about Javascript and Typescript
